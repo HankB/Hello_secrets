@@ -4,7 +4,7 @@ Test way(s) to keep secrets from going public via Github.
 
 ## Motivation
 
-Coding for ESP8266 and I need to include SSID/password for my WiFi access point. I don't want to expose this information publicly but wish to share the code. If I rely on obfuscating the secrets every time I commit
+Coding for ESP8266 and I need to include SSID/password for my WiFi access point. I don't want to expose this information publicly but wish to share the code. If I rely on obfuscating the secrets every time I commit I'll be in Big Trouble when I forget to do this.
 
 ## Strategy
 
